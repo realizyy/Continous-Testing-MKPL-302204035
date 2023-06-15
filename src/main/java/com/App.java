@@ -9,10 +9,10 @@ import org.apache.log4j.helpers.Loader;
 
 enum OpType
 {
-    Adds,
+    Add,
     Sub,
     Mul,
-    Divs,
+    Div,
     Let,
     None
 }
